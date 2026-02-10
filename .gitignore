@@ -1,3 +1,12 @@
 __pycache__/
 *.pyc
 .pytest_cache/
+.env
+*.egg-info/
+dist/
+build/
+eval/datasets/
+eval/results/
+eval/logs/
+logs/
+results/

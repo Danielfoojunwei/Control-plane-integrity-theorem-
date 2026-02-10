@@ -1,0 +1,37 @@
+# Core LLM and Agent Frameworks
+openai==1.58.1
+anthropic==0.42.0
+langchain==0.3.15
+langchain-openai==0.2.14
+langchain-anthropic==0.3.5
+langchain-community==0.3.15
+langchain-core==0.3.28
+langgraph==0.2.60
+
+# HuggingFace and Dataset Management
+datasets==3.2.0
+huggingface-hub==0.27.0
+
+# Evaluation and Testing
+pytest==8.3.4
+
+# Data Processing and Analysis
+pandas==2.2.3
+numpy==2.2.1
+scipy==1.15.1
+
+# Visualization
+matplotlib==3.10.0
+seaborn==0.13.2
+
+# Validation
+pydantic==2.10.5
+
+# Utilities
+python-dotenv==1.0.1
+pyyaml==6.0.2
+tqdm==4.67.1
+
+# HTTP
+httpx==0.28.1
+requests==2.32.3
